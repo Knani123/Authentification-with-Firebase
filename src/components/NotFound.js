@@ -1,11 +1,11 @@
 import React from 'react'
 
-const Messages = () => {
+const NotFound = () => {
     return (
         <div>
-            Messages
+            404
         </div>
     )
 }
 
-export default Messages
+export default NotFound
